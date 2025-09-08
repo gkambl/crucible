@@ -1,0 +1,18 @@
+{
+  "allowDomains": [
+    "gov.uk",
+    "nhs.uk",
+    "europa.eu",
+    "bankofamerica.com",
+    "chase.com",
+    "wellsfargo.com",
+    "coinbase.com",
+    "kraken.com",
+    "binance.com"
+  ],
+  "allowSenders": [
+    "support@paypal.com",
+    "no-reply@apple.com",
+    "no-reply@amazon.com"
+  ]
+}
