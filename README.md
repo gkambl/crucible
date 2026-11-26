@@ -30,4 +30,8 @@ React 18, TypeScript, Vite, Tailwind CSS, Web Workers.
 ## Status
 Personal project.
 
+## License
+
+MIT License. See [LICENSE](LICENSE).
+
 Built by [Gouresh Kamble](https://github.com/gkambl).
